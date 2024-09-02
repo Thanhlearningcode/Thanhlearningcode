@@ -16,9 +16,3 @@
 
 I’m also working on an **AGV (Automated Guided Vehicle) mobile robot** project! This involves using a LIDAR sensor connected to a Raspberry Pi for mapping and navigation, all powered by ROS (Robot Operating System). The project is not only about mapping but also about precise motor control. To achieve this, I’ve integrated the Raspberry Pi with an STM32F411 microcontroller via UART communication. The STM32F411 handles the low-level motor control, allowing the robot to move accurately and respond swiftly to environmental changes detected by the LIDAR.
 
-This setup allows for:
-- **Real-time mapping:** The LIDAR sensor continuously scans the environment, sending data to the Raspberry Pi, where ROS processes the information to build a map.
-- **Efficient navigation:** Using the map, the AGV can navigate through predefined paths or avoid obstacles dynamically.
-- **Precise motor control:** The STM32F411 receives commands from the Raspberry Pi via UART and controls the motors with high precision, ensuring smooth and accurate movements.
-
-It’s a fascinating challenge to integrate hardware with ROS, pushing the boundaries of what’s possible in autonomous vehicle technology. The combination of LIDAR mapping, ROS, and precise motor control opens up endless possibilities in robotics. I’m excited to continue exploring and refining this project—can’t wait to see where this journey takes me! ( ON BEING MAKE
