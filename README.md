@@ -7,7 +7,7 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I once designed a smart home system as part of a project-based learning (PBL) initiative and am now diving deep into robotics and image processing. And yes, I’ve written assembly code for STM32 microcontrollers—because sometimes, you just need that extra performance boost!
 
-## STM32 Microcontrollers: Making the Impossible Possible!
+## Making the Impossible Possible!
 ### STM32F411 && STM32F103C8T6
 - **CMSIS:** The power you need, right at your fingertips with tailored headers and startup code.
 - **Assembly Language Programming:** When you want to push the limits and defy expectations, writing assembly code in `.s` or `.asm` files gives you the precision and control needed for critical applications.
