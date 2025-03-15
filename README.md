@@ -3,7 +3,7 @@
 - 👀 **Interests:** Embedded Systems and Mechatronics Engineering.
 - 🌱 **Currently Learning:** Autosar Architecture, Model-Based Design (MBD) concepts, and STM32 microcontroller programming.
 - 💞️ **Looking to Collaborate On:** Projects related to embedded systems, smart home technologies, and innovative solutions in smart parking.
-- 📫 **Reach Me At:** [Email](mailto:thanhnguyen76bk@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/thành-nguyễn-văn-980679317/](https://www.linkedin.com/in/thanhnguyen-embedded/)) | [GitHub](https://github.com/Thanhlearningcode)
+- 📫 **Reach Me At:** [Email](mailto:thanhnguyen76bk@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/thành-nguyễn-văn-980679317/](https://www.linkedin.com/in/thanhnguyen-embedded/) | [GitHub](https://github.com/Thanhlearningcode)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I once designed a smart home system as part of a project-based learning (PBL) initiative and am now diving deep into robotics and image processing. And yes, I’ve written assembly code for STM32 microcontrollers—because sometimes, you just need that extra performance boost!
 
